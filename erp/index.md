@@ -33,6 +33,7 @@ title: ERP Extension - Privacy Policy
 
 ## Privacy Concerns
 This extension has been built with privacy as its number one concern.
+There is an error log that lives inside the extension on your own PC. Nothing from it is ever recorded or sent anywhere.
 - We don't collect, store, or transmit data.
 - We don't sell or share anything, because we don't have anything.
 - We don't use any third-party analytics, advertising, or tracking service.
@@ -47,7 +48,7 @@ This extension augments only the following pages with useful actions.
 ## The AutoHotkey companion
 The extension ships with an optional AutoHotkey script for the Zoom desktop app.  
 If you install and run it, it tries to recognise a phone number from your clipboard so it can bring Zoom up and dial it.  
-That check happens on your own PC, inside that script, and nothing from your clipboard is recorded or sent anywhere.
+That check happens on your own PC, inside that script. Nothing from your clipboard is ever recorded or sent anywhere.
 
 ## Removing everything
 Uninstalling the extension removes its stored data with it.  
